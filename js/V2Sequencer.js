@@ -4,7 +4,7 @@
 class V2Sequencer extends V2WebModule {
   midi = null;
 
-  nTracks = 4;
+  nTracks = 9;
   nQuarters = 16;
 
   #version = null;
